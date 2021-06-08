@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "sequantial(2x-1)"
